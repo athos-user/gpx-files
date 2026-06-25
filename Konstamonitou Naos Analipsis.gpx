@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx version="1.1" creator="https://agionorosroutes.blogspot.com/">
+  <metadata>
+    <name>1,13 km route</name>
+    <link href="https://agionorosroutes.blogspot.com/2022/11/konstamonitouanalipseos.html">
+      <text>AthosMaps</text>
+    </link>
+    <time>2025-03-29T07:48:34.677Z</time>
+    <copyright author="Athos Maps">
+      <year>2025</year>
+    </copyright>
+  </metadata>
+  <trk>
+    <name>1,13 km route</name>
+    <trkseg>
+      <trkpt lat="40.28836" lon="24.17493"/>
+      <trkpt lat="40.2884" lon="24.17474"/>
+      <trkpt lat="40.28842" lon="24.17443"/>
+      <trkpt lat="40.2884" lon="24.17414"/>
+      <trkpt lat="40.28837" lon="24.17398"/>
+      <trkpt lat="40.2882" lon="24.17337"/>
+      <trkpt lat="40.28805" lon="24.17362"/>
+      <trkpt lat="40.28797" lon="24.17367"/>
+      <trkpt lat="40.2879" lon="24.17362"/>
+      <trkpt lat="40.28787" lon="24.1735"/>
+      <trkpt lat="40.28789" lon="24.17343"/>
+      <trkpt lat="40.28791" lon="24.17321"/>
+      <trkpt lat="40.28788" lon="24.17314"/>
+      <trkpt lat="40.28755" lon="24.17267"/>
+      <trkpt lat="40.28725" lon="24.17196"/>
+      <trkpt lat="40.28716" lon="24.17189"/>
+      <trkpt lat="40.28699" lon="24.17182"/>
+      <trkpt lat="40.28667" lon="24.17178"/>
+      <trkpt lat="40.28655" lon="24.17172"/>
+      <trkpt lat="40.28643" lon="24.17155"/>
+      <trkpt lat="40.28642" lon="24.17146"/>
+      <trkpt lat="40.28649" lon="24.17125"/>
+      <trkpt lat="40.28662" lon="24.17101"/>
+      <trkpt lat="40.28657" lon="24.17096"/>
+      <trkpt lat="40.28649" lon="24.171"/>
+      <trkpt lat="40.2864" lon="24.17108"/>
+      <trkpt lat="40.28618" lon="24.17132"/>
+      <trkpt lat="40.28612" lon="24.17154"/>
+      <trkpt lat="40.286" lon="24.1722"/>
+      <trkpt lat="40.28592" lon="24.17243"/>
+      <trkpt lat="40.28584" lon="24.17259"/>
+      <trkpt lat="40.28575" lon="24.17283"/>
+      <trkpt lat="40.2857" lon="24.17291"/>
+      <trkpt lat="40.28565" lon="24.17293"/>
+      <trkpt lat="40.28558" lon="24.17287"/>
+      <trkpt lat="40.28547" lon="24.17237"/>
+      <trkpt lat="40.2855" lon="24.17162"/>
+      <trkpt lat="40.28548" lon="24.17138"/>
+      <trkpt lat="40.2854" lon="24.17102"/>
+      <trkpt lat="40.28536" lon="24.17052"/>
+      <trkpt lat="40.28527" lon="24.17005"/>
+      <trkpt lat="40.28517" lon="24.16999"/>
+      <trkpt lat="40.28514" lon="24.17006"/>
+      <trkpt lat="40.28495" lon="24.16981"/>
+      <trkpt lat="40.28467" lon="24.16996"/>
+      <trkpt lat="40.28429" lon="24.16919"/>
+    </trkseg>
+  </trk>
+</gpx>
