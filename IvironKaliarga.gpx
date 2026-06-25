@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx version="1.1" creator="https://agionorosroutes.blogspot.com/">
+  <metadata>
+    <name>1,32 km route</name>
+    <link href="https://agionorosroutes.blogspot.com/2022/11/ivironkaliarga.html">
+      <text>AthosMaps</text>
+    </link>
+    <time>2025-03-26T05:30:11.630Z</time>
+    <copyright author="Athos Maps">
+      <year>2025</year>
+    </copyright>
+  </metadata>
+  <trk>
+    <name>1,32 km route</name>
+    <trkseg>
+      <trkpt lat="40.24606" lon="24.28482"/>
+      <trkpt lat="40.24617" lon="24.28477"/>
+      <trkpt lat="40.24631" lon="24.28463"/>
+      <trkpt lat="40.24633" lon="24.28457"/>
+      <trkpt lat="40.24653" lon="24.28471"/>
+      <trkpt lat="40.24669" lon="24.28476"/>
+      <trkpt lat="40.24706" lon="24.28484"/>
+      <trkpt lat="40.24724" lon="24.28485"/>
+      <trkpt lat="40.24737" lon="24.28483"/>
+      <trkpt lat="40.2475" lon="24.28473"/>
+      <trkpt lat="40.24766" lon="24.28444"/>
+      <trkpt lat="40.24777" lon="24.28431"/>
+      <trkpt lat="40.24798" lon="24.284"/>
+      <trkpt lat="40.24813" lon="24.28357"/>
+      <trkpt lat="40.24825" lon="24.28351"/>
+      <trkpt lat="40.24837" lon="24.28356"/>
+      <trkpt lat="40.24838" lon="24.28366"/>
+      <trkpt lat="40.24852" lon="24.2838"/>
+      <trkpt lat="40.24865" lon="24.28373"/>
+      <trkpt lat="40.24886" lon="24.28367"/>
+      <trkpt lat="40.24996" lon="24.28325"/>
+      <trkpt lat="40.25048" lon="24.28267"/>
+      <trkpt lat="40.25089" lon="24.28243"/>
+      <trkpt lat="40.251" lon="24.2822"/>
+      <trkpt lat="40.25149" lon="24.28174"/>
+      <trkpt lat="40.25177" lon="24.28156"/>
+      <trkpt lat="40.25197" lon="24.28136"/>
+      <trkpt lat="40.25214" lon="24.2814"/>
+      <trkpt lat="40.25238" lon="24.28163"/>
+      <trkpt lat="40.25267" lon="24.28178"/>
+      <trkpt lat="40.25329" lon="24.28175"/>
+      <trkpt lat="40.25354" lon="24.28176"/>
+      <trkpt lat="40.25367" lon="24.28172"/>
+      <trkpt lat="40.25405" lon="24.28182"/>
+      <trkpt lat="40.25415" lon="24.28187"/>
+      <trkpt lat="40.25436" lon="24.28185"/>
+      <trkpt lat="40.25445" lon="24.28168"/>
+      <trkpt lat="40.255" lon="24.28152"/>
+      <trkpt lat="40.25527" lon="24.28139"/>
+      <trkpt lat="40.25569" lon="24.28137"/>
+      <trkpt lat="40.25603" lon="24.28138"/>
+      <trkpt lat="40.2564" lon="24.28153"/>
+      <trkpt lat="40.25644" lon="24.28153"/>
+      <trkpt lat="40.25646" lon="24.28153"/>
+    </trkseg>
+  </trk>
+</gpx>
