@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx version="1.1" creator="https://agionorosroutes.blogspot.com/">
+  <metadata>
+    <name>0,88 km route</name>
+    <link href="https://agionorosroutes.blogspot.com/2022/11/agiosvasiliostauros.html">
+      <text>AthosMaps</text>
+    </link>
+    <time>2025-03-30T19:43:21.378Z</time>
+    <copyright author="Athos Maps">
+      <year>2025</year>
+    </copyright>
+  </metadata>
+  <trk>
+    <name>0,88 km route</name>
+    <trkseg>
+      <trkpt lat="40.12679" lon="24.30842"/>
+      <trkpt lat="40.1268" lon="24.30843"/>
+      <trkpt lat="40.12714" lon="24.30869"/>
+      <trkpt lat="40.12743" lon="24.30899"/>
+      <trkpt lat="40.12765" lon="24.30893"/>
+      <trkpt lat="40.12797" lon="24.30884"/>
+      <trkpt lat="40.12811" lon="24.30925"/>
+      <trkpt lat="40.12838" lon="24.3091"/>
+      <trkpt lat="40.12848" lon="24.30942"/>
+      <trkpt lat="40.12866" lon="24.3092"/>
+      <trkpt lat="40.12949" lon="24.30975"/>
+      <trkpt lat="40.12954" lon="24.30979"/>
+      <trkpt lat="40.13013" lon="24.30959"/>
+      <trkpt lat="40.13049" lon="24.30928"/>
+      <trkpt lat="40.13093" lon="24.3093"/>
+      <trkpt lat="40.13227" lon="24.30907"/>
+      <trkpt lat="40.1331" lon="24.30922"/>
+      <trkpt lat="40.13384" lon="24.30927"/>
+    </trkseg>
+  </trk>
+</gpx>
