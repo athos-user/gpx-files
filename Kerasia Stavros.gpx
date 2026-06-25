@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx version="1.1" creator="https://agionorosroutes.blogspot.com/">
+  <metadata>
+    <name>0,77 km route</name>
+    <link href="https://agionorosroutes.blogspot.com/2022/11/kerasiastauros.html">
+      <text>AthosMaps</text>
+    </link>
+    <time>2025-03-31T17:33:48.968Z</time>
+    <copyright author="Athos Maps">
+      <year>2025</year>
+    </copyright>
+  </metadata>
+  <trk>
+    <name>0,77 km route</name>
+    <trkseg>
+      <trkpt lat="40.13462" lon="24.31667"/>
+      <trkpt lat="40.13461" lon="24.31664"/>
+      <trkpt lat="40.13444" lon="24.31623"/>
+      <trkpt lat="40.13445" lon="24.31607"/>
+      <trkpt lat="40.13474" lon="24.3161"/>
+      <trkpt lat="40.13492" lon="24.31598"/>
+      <trkpt lat="40.13514" lon="24.3156"/>
+      <trkpt lat="40.13516" lon="24.31524"/>
+      <trkpt lat="40.13515" lon="24.31491"/>
+      <trkpt lat="40.1351" lon="24.31484"/>
+      <trkpt lat="40.13478" lon="24.31464"/>
+      <trkpt lat="40.13481" lon="24.31424"/>
+      <trkpt lat="40.13492" lon="24.31408"/>
+      <trkpt lat="40.13511" lon="24.31412"/>
+      <trkpt lat="40.13505" lon="24.3136"/>
+      <trkpt lat="40.13481" lon="24.31242"/>
+      <trkpt lat="40.13451" lon="24.31195"/>
+      <trkpt lat="40.13434" lon="24.31132"/>
+      <trkpt lat="40.13427" lon="24.31065"/>
+      <trkpt lat="40.13384" lon="24.30976"/>
+      <trkpt lat="40.13384" lon="24.30929"/>
+    </trkseg>
+  </trk>
+</gpx>
