@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx version="1.1" creator="https://agionorosroutes.blogspot.com/">
+  <metadata>
+    <name>1,21 km route</name>
+    <link href="https://agionorosroutes.blogspot.com/2022/11/karakallouarsanas1.html">
+      <text>AthosMaps</text>
+    </link>
+    <time>2025-03-27T19:40:36.121Z</time>
+    <copyright author="Athos Maps">
+      <year>2025</year>
+    </copyright>
+  </metadata>
+  <trk>
+    <name>1,21 km route</name>
+    <trkseg>
+      <trkpt lat="40.22957" lon="24.31446"/>
+      <trkpt lat="40.22955" lon="24.31445"/>
+      <trkpt lat="40.22941" lon="24.31434"/>
+      <trkpt lat="40.22922" lon="24.31428"/>
+      <trkpt lat="40.22918" lon="24.31424"/>
+      <trkpt lat="40.22917" lon="24.3142"/>
+      <trkpt lat="40.22918" lon="24.31414"/>
+      <trkpt lat="40.22928" lon="24.31396"/>
+      <trkpt lat="40.2293" lon="24.31359"/>
+      <trkpt lat="40.22928" lon="24.3135"/>
+      <trkpt lat="40.22926" lon="24.31358"/>
+      <trkpt lat="40.22917" lon="24.31377"/>
+      <trkpt lat="40.22904" lon="24.314"/>
+      <trkpt lat="40.22876" lon="24.31417"/>
+      <trkpt lat="40.22861" lon="24.31439"/>
+      <trkpt lat="40.22855" lon="24.31421"/>
+      <trkpt lat="40.22855" lon="24.31415"/>
+      <trkpt lat="40.22862" lon="24.31399"/>
+      <trkpt lat="40.22857" lon="24.31393"/>
+      <trkpt lat="40.22848" lon="24.31391"/>
+      <trkpt lat="40.22843" lon="24.31386"/>
+      <trkpt lat="40.22845" lon="24.31381"/>
+      <trkpt lat="40.22855" lon="24.3138"/>
+      <trkpt lat="40.22862" lon="24.31369"/>
+      <trkpt lat="40.22866" lon="24.31354"/>
+      <trkpt lat="40.22867" lon="24.31331"/>
+      <trkpt lat="40.22845" lon="24.31286"/>
+      <trkpt lat="40.22821" lon="24.31264"/>
+      <trkpt lat="40.22828" lon="24.31253"/>
+      <trkpt lat="40.22827" lon="24.31243"/>
+      <trkpt lat="40.22818" lon="24.31238"/>
+      <trkpt lat="40.22808" lon="24.31215"/>
+      <trkpt lat="40.22769" lon="24.31168"/>
+      <trkpt lat="40.22751" lon="24.31158"/>
+      <trkpt lat="40.22716" lon="24.31161"/>
+      <trkpt lat="40.22702" lon="24.3116"/>
+      <trkpt lat="40.22673" lon="24.31152"/>
+      <trkpt lat="40.2264" lon="24.31139"/>
+      <trkpt lat="40.22617" lon="24.31132"/>
+      <trkpt lat="40.22586" lon="24.31135"/>
+      <trkpt lat="40.22563" lon="24.31142"/>
+      <trkpt lat="40.22552" lon="24.31157"/>
+      <trkpt lat="40.22546" lon="24.3116"/>
+      <trkpt lat="40.22527" lon="24.31151"/>
+      <trkpt lat="40.22525" lon="24.31127"/>
+      <trkpt lat="40.22521" lon="24.31117"/>
+      <trkpt lat="40.2248" lon="24.31107"/>
+      <trkpt lat="40.22454" lon="24.31085"/>
+      <trkpt lat="40.22438" lon="24.31067"/>
+      <trkpt lat="40.22424" lon="24.31039"/>
+      <trkpt lat="40.22409" lon="24.3102"/>
+      <trkpt lat="40.22371" lon="24.30994"/>
+      <trkpt lat="40.22361" lon="24.30975"/>
+      <trkpt lat="40.22348" lon="24.30934"/>
+      <trkpt lat="40.22335" lon="24.30881"/>
+      <trkpt lat="40.22339" lon="24.30881"/>
+      <trkpt lat="40.22341" lon="24.30884"/>
+      <trkpt lat="40.22351" lon="24.30908"/>
+      <trkpt lat="40.22355" lon="24.30909"/>
+      <trkpt lat="40.22364" lon="24.30903"/>
+      <trkpt lat="40.22365" lon="24.30901"/>
+    </trkseg>
+  </trk>
+</gpx>
