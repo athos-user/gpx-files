@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx version="1.1" creator="https://agionorosroutes.blogspot.com/">
+  <metadata>
+    <name>0,7 km route</name>
+    <link href="https://agionorosroutes.blogspot.com/2022/11/zografoukathismaagiougeorgiou.html">
+      <text>AthosMaps</text>
+    </link>
+    <time>2025-03-27T09:53:49.568Z</time>
+    <copyright author="Athos Maps">
+      <year>2025</year>
+    </copyright>
+  </metadata>
+  <trk>
+    <name>0,7 km route</name>
+    <trkseg>
+      <trkpt lat="40.30647" lon="24.16039"/>
+      <trkpt lat="40.3065" lon="24.16032"/>
+      <trkpt lat="40.30717" lon="24.16038"/>
+      <trkpt lat="40.30742" lon="24.16054"/>
+      <trkpt lat="40.30752" lon="24.1607"/>
+      <trkpt lat="40.30766" lon="24.1611"/>
+      <trkpt lat="40.30781" lon="24.16129"/>
+      <trkpt lat="40.30793" lon="24.16138"/>
+      <trkpt lat="40.30804" lon="24.16143"/>
+      <trkpt lat="40.30817" lon="24.16141"/>
+      <trkpt lat="40.30824" lon="24.16136"/>
+      <trkpt lat="40.30825" lon="24.16103"/>
+      <trkpt lat="40.30807" lon="24.16047"/>
+      <trkpt lat="40.30804" lon="24.16031"/>
+      <trkpt lat="40.308" lon="24.15983"/>
+      <trkpt lat="40.30796" lon="24.15962"/>
+      <trkpt lat="40.30792" lon="24.15956"/>
+      <trkpt lat="40.30778" lon="24.15919"/>
+      <trkpt lat="40.30766" lon="24.15906"/>
+      <trkpt lat="40.30751" lon="24.15876"/>
+      <trkpt lat="40.30746" lon="24.15854"/>
+      <trkpt lat="40.30743" lon="24.15844"/>
+      <trkpt lat="40.30724" lon="24.15833"/>
+      <trkpt lat="40.30672" lon="24.15811"/>
+      <trkpt lat="40.30602" lon="24.15769"/>
+      <trkpt lat="40.30582" lon="24.15763"/>
+    </trkseg>
+  </trk>
+</gpx>
