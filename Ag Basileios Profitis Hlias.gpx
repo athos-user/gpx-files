@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx version="1.1" creator="https://agionorosroutes.blogspot.com/">
+  <metadata>
+    <name>0,73 km route</name>
+    <link href="https://agionorosroutes.blogspot.com/2022/11/agiosvasileiosprofitilia.html">
+      <text>AthosMaps</text>
+    </link>
+    <time>2025-03-30T19:29:09.174Z</time>
+    <copyright author="Athos Maps">
+      <year>2025</year>
+    </copyright>
+  </metadata>
+  <trk>
+    <name>0,73 km route</name>
+    <trkseg>
+      <trkpt lat="40.12679" lon="24.30842"/>
+      <trkpt lat="40.1268" lon="24.30843"/>
+      <trkpt lat="40.12714" lon="24.30869"/>
+      <trkpt lat="40.12743" lon="24.30899"/>
+      <trkpt lat="40.12765" lon="24.30893"/>
+      <trkpt lat="40.12797" lon="24.30884"/>
+      <trkpt lat="40.12811" lon="24.30925"/>
+      <trkpt lat="40.12838" lon="24.3091"/>
+      <trkpt lat="40.12848" lon="24.30942"/>
+      <trkpt lat="40.12866" lon="24.3092"/>
+      <trkpt lat="40.12949" lon="24.30975"/>
+      <trkpt lat="40.12947" lon="24.30979"/>
+      <trkpt lat="40.12962" lon="24.30995"/>
+      <trkpt lat="40.13008" lon="24.30997"/>
+      <trkpt lat="40.13024" lon="24.31008"/>
+      <trkpt lat="40.13033" lon="24.3102"/>
+      <trkpt lat="40.13024" lon="24.31033"/>
+      <trkpt lat="40.13004" lon="24.3105"/>
+      <trkpt lat="40.13001" lon="24.31059"/>
+      <trkpt lat="40.1299" lon="24.31067"/>
+      <trkpt lat="40.12985" lon="24.31081"/>
+      <trkpt lat="40.12997" lon="24.31081"/>
+      <trkpt lat="40.12991" lon="24.31092"/>
+      <trkpt lat="40.12969" lon="24.31102"/>
+      <trkpt lat="40.12956" lon="24.31114"/>
+      <trkpt lat="40.12965" lon="24.31116"/>
+      <trkpt lat="40.12972" lon="24.3113"/>
+      <trkpt lat="40.1297" lon="24.31134"/>
+      <trkpt lat="40.12957" lon="24.31128"/>
+      <trkpt lat="40.12941" lon="24.3113"/>
+      <trkpt lat="40.12929" lon="24.31136"/>
+      <trkpt lat="40.12919" lon="24.31132"/>
+    </trkseg>
+  </trk>
+</gpx>
