@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx version="1.1" creator="https://agionorosroutes.blogspot.com/">
+  <metadata>
+    <name>0,86 km route</name>
+    <link href="https://agionorosroutes.blogspot.com/2022/11/roumanikiviglaiosif.html">
+      <text>AthosMaps</text>
+    </link>
+    <time>2025-03-30T05:47:55.173Z</time>
+    <copyright author="Athos Maps">
+      <year>2025</year>
+    </copyright>
+  </metadata>
+  <trk>
+    <name>0,86 km route</name>
+    <trkseg>
+      <trkpt lat="40.14334" lon="24.38366"/>
+      <trkpt lat="40.14329" lon="24.38366"/>
+      <trkpt lat="40.14319" lon="24.38337"/>
+      <trkpt lat="40.14312" lon="24.38341"/>
+      <trkpt lat="40.14298" lon="24.38355"/>
+      <trkpt lat="40.14303" lon="24.38387"/>
+      <trkpt lat="40.14302" lon="24.3843"/>
+      <trkpt lat="40.14305" lon="24.38449"/>
+      <trkpt lat="40.14306" lon="24.38478"/>
+      <trkpt lat="40.14298" lon="24.38503"/>
+      <trkpt lat="40.14294" lon="24.38525"/>
+      <trkpt lat="40.14293" lon="24.38546"/>
+      <trkpt lat="40.14289" lon="24.38576"/>
+      <trkpt lat="40.1426" lon="24.3861"/>
+      <trkpt lat="40.14247" lon="24.38637"/>
+      <trkpt lat="40.14246" lon="24.38664"/>
+      <trkpt lat="40.14237" lon="24.38692"/>
+      <trkpt lat="40.14226" lon="24.38719"/>
+      <trkpt lat="40.14216" lon="24.38749"/>
+      <trkpt lat="40.14228" lon="24.3875"/>
+      <trkpt lat="40.14217" lon="24.38773"/>
+      <trkpt lat="40.14205" lon="24.38807"/>
+      <trkpt lat="40.14192" lon="24.38831"/>
+      <trkpt lat="40.14177" lon="24.38848"/>
+      <trkpt lat="40.14159" lon="24.38855"/>
+      <trkpt lat="40.14133" lon="24.38888"/>
+      <trkpt lat="40.14117" lon="24.38916"/>
+      <trkpt lat="40.14101" lon="24.38944"/>
+      <trkpt lat="40.14089" lon="24.38958"/>
+      <trkpt lat="40.14077" lon="24.38967"/>
+      <trkpt lat="40.14062" lon="24.38971"/>
+      <trkpt lat="40.1405" lon="24.38966"/>
+      <trkpt lat="40.14038" lon="24.38969"/>
+      <trkpt lat="40.14026" lon="24.38988"/>
+      <trkpt lat="40.14019" lon="24.39008"/>
+      <trkpt lat="40.14016" lon="24.39048"/>
+      <trkpt lat="40.1398" lon="24.39086"/>
+    </trkseg>
+  </trk>
+</gpx>
